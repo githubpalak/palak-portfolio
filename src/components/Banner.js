@@ -14,7 +14,6 @@ export const Banner = () => {
   const [delta, setDelta] = useState(200 - Math.random() * 100);
   const [index, setIndex] = useState(1);
   const toRotate = [
-    "Final Year ENTC Student...",
     "Government College of Engineering, Amravati...",
     "Software Enthusiast",
   ];

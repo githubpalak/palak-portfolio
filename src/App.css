@@ -272,9 +272,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
   margin-top: 0;
   padding: 260px 0 100px 0;
-  /* background-image: url('./assets/img/banner-bg.png'); */
-  background: #252734;
-  background-position: top center;
+  background-image: url('./assets/img/banner-bg.png');
+  /*background: #252734;*/
+  /*background-position: top center;*/
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -354,7 +354,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .skill {
   padding: 0 0 50px 0;
   position: relative;
-  background: #2a2c39;
+  background-image: url('./assets/img/color-sharp.png');
+  /*background: #2a2c39;*/
 }
 
 .skill-bx {
@@ -402,7 +403,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project {
   padding: 80px 0;
   position: relative;
-  background-color:#252734;
+  background-image: url('./assets/img/color-sharp2.png');
+  /*background-color:#252734;*/
 }
 
 .project h2 {
@@ -545,9 +547,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   z-index: -4;
 }
 
-/************ Projects Css ************/
+/************ contact Css ************/
 .contact {
-  background: linear-gradient(90.21deg, #2a2c39 -5.91%, #212529 111.58%);
+  background-image: url('./assets/img/color-sharp.png');
+  /*background: linear-gradient(90.21deg, #2a2c39 -5.91%, #212529 111.58%);*/
   padding: 60px 0 200px 0;
 }
 
@@ -636,8 +639,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 /************ Footer Css ************/
 .footer {
   padding: 0 0 50px 0;
-  /* background-image: url('./assets/img/footer-bg.png'); */
-  background: #252734;
+  background-image: url('./assets/img/footer-bg.png');
+  /*background: #252734;*/
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
