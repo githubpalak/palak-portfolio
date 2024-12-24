@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/palak-portfolio/static/css/main.2382fd3a.css",
-    "main.js": "/palak-portfolio/static/js/main.8ecd4270.js",
+    "main.js": "/palak-portfolio/static/js/main.2fd6b745.js",
     "static/js/453.7e2a2c2f.chunk.js": "/palak-portfolio/static/js/453.7e2a2c2f.chunk.js",
     "static/media/code_screen.gif": "/palak-portfolio/static/media/code_screen.2f76a2bf4aa017467d6c.gif",
     "static/media/color-sharp.png": "/palak-portfolio/static/media/color-sharp.bbcadd6553aefb9cf960.png",
@@ -17,13 +17,10 @@
     "static/media/CentraNo2-Bold.ttf": "/palak-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/palak-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/palak-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/aws.svg": "/palak-portfolio/static/media/aws.98fbb0718f197192eaa2e4226a008457.svg",
     "static/media/footer-bg.png": "/palak-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/lasersecurity.png": "/palak-portfolio/static/media/lasersecurity.0e03b5b56571e4cfa28a.png",
     "static/media/js.svg": "/palak-portfolio/static/media/js.baf13c447447970cf0b352b8626ffeb3.svg",
-    "static/media/hospital.png": "/palak-portfolio/static/media/hospital.5f3d4f188ad6ca02d73f.png",
     "static/media/contact-img.svg": "/palak-portfolio/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
-    "static/media/csharp.svg": "/palak-portfolio/static/media/csharp.a8ebe9609c97de742dd966d61fb79717.svg",
     "static/media/mysql.svg": "/palak-portfolio/static/media/mysql.c3132820c4a82890fcafea63baa856df.svg",
     "static/media/revicons.eot": "/palak-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/palak-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -34,11 +31,11 @@
     "static/media/nav-icon1.svg": "/palak-portfolio/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
     "static/media/nav-icon2.svg": "/palak-portfolio/static/media/nav-icon2.1f302d0854ec78829ba2069ad3593b5c.svg",
     "main.2382fd3a.css.map": "/palak-portfolio/static/css/main.2382fd3a.css.map",
-    "main.8ecd4270.js.map": "/palak-portfolio/static/js/main.8ecd4270.js.map",
+    "main.2fd6b745.js.map": "/palak-portfolio/static/js/main.2fd6b745.js.map",
     "453.7e2a2c2f.chunk.js.map": "/palak-portfolio/static/js/453.7e2a2c2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2382fd3a.css",
-    "static/js/main.8ecd4270.js"
+    "static/js/main.2fd6b745.js"
   ]
 }
